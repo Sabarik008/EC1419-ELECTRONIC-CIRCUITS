@@ -8,7 +8,13 @@
 
 
 # Tabulation with readings
+![WhatsApp Image 2026-04-03 at 2 13 02 PM](https://github.com/user-attachments/assets/71badab8-2b86-4f15-bf48-eee315d6b58c)
+
 
 ## Semilog plotted Graph
+![WhatsApp Image 2026-04-03 at 2 13 24 PM](https://github.com/user-attachments/assets/55c9eddd-98e6-49b7-9111-ae9323a64e9c)
 
-<img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+
+## RESULT
+ The common source amplifier was constructed and the following results were observed 1.gain of the amplifier =6.8 dB 2.bandwidth of the amplifier =99.3 khz 3.gain bandwidth product =217.46khz
+
